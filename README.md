@@ -25,3 +25,6 @@ Makefile_template
         ├── src.mk
         ├── tcp_client.c
         └── uart.c
+
+# 注意
+src下的.mk是将每个源文件的路径加入变量SRC
